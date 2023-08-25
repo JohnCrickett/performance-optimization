@@ -10,3 +10,9 @@ This repository contain tips, tutorials and examples on performance optimisation
 5. Avoid copying data (pass references to it).
 6. Store data as close to the data that it is used with as possible.
 7. Iterate through arrays in order, when possible, don’t jump around.
+
+## Recommended Books
+
+1. [Michael Abrash's Graphics Programming Black Book](https://github.com/jagregory/abrash-black-book) - Covers far more than graphics, now out of print but an online version is available through this repo.
+2. [Efficient Memory Programming](https://www.amazon.com/Efficient-Memory-Programming-David-Loshin/dp/0070388687)
+3. [The Art of Writing Efficient Programs](https://www.packtpub.com/product/the-art-of-writing-efficient-programs/9781800208117)
